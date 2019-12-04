@@ -7,7 +7,7 @@ use NotificationChannels\Fcm\Message;
 class TripSummary extends Notification
 {
     /**
-     * Get the mail representation of the notification.
+     * Get the trip summary representation of the notification.
      *
      * @param  mixed  $notifiable
      * @return \NotificationChannels\Fcm\Message
